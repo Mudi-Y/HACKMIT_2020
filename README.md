@@ -1,4 +1,4 @@
-# HACKMIT_2020 ABOSLUTELY RAN OUT OF TIME XD, WAS SO FUNNNNN
+# HACKMIT_2020
 
 for reference:
 - reading POSTs from front-end: can find relevant code in Backend/views.py
